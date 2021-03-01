@@ -20,7 +20,5 @@ Currently I'm living in Goiânia/Brazil.
 ## Contacts
 
 - [denisbm.com](http://denisbm.com)
-- <a href="http://www.denisbm.com" target="_blank" rel="noopener noreferrer">denisbm.com</a>
-- 
 - [denis765@gmail.com](mailto:denis765@gmail.com) on Gmail
 - [denisbm](https://www.linkedin.com/in/denisbm/) on LinkedIn
