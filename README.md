@@ -4,7 +4,7 @@
 
 My name is Denis Bittencourt and I'm a full-stack software developer.
 
-I finished my Computer Science degree in 2014 and I've been working with the .NET ecosystem profissionally for 4+ years.
+I finished my Computer Science degree in 2014 and I've been working with the .NET ecosystem profissionally for 10 years.
 
 Currently I'm living in Goiânia/Brazil.
 
